@@ -1,7 +1,7 @@
 BERT NLP toolkit
 =============
 
-BERT NLP toolkit is a Python package that performs various NLP tasks using Bidirectional Encoder Representations from Transformers (BERT) related models.
+BERT NLP toolkit (https://pypi.org/project/bertnlp) is a Python package that performs various NLP tasks using Bidirectional Encoder Representations from Transformers (BERT) related models.
 
 Installation
 -------
