@@ -1,0 +1,11 @@
+include README.md
+include bert/models/heartCategory.pkl
+include bert/data/heartCategories.csv
+include bert/data/heartFeatures.csv
+
+recursive-include bert/data *
+recursive-include bert/models *
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+
+recursive-include docs *.rst conf.py Makefile make.bat *.jpg *.png *.gif

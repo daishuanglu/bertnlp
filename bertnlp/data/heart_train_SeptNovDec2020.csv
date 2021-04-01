@@ -1,0 +1,382 @@
+rowid,Text,SurveyRating,FeedbackType,Platform,OCVSource,Category,SubCategory,FeatureMentioned,Existing Feature
+3215,convenient,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+3217,"I was able to submit my vacation time as expected, but it would have been great to see the ?time subject to forfeiture? hours on the time off submission widget (instead of only being visible in the Payroll widget).",4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Time-Off,Yes
+3218,"I really like the direction of this app, but I wish I could input individual hours for vacation and sick leave, and I wish I could see the full paycheck details.",4,Feature Survey,Android,Floodgate,Enhancement Request,UI,"Time-Off, Paystub",Yes
+3224,It will be great to bring other internal applications to my hub,4,Feature Survey,Android,Floodgate,Enhancement Request,UI,,
+3238,It's so handy ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3239,App requires more Polishing. at times app is stuck at fingerprint login and needs to be restarted. Also some information is visible during app switching which kind of defeats the purpose of authentication.,4,Feature Survey,Android,Floodgate,Issue,"Reliability/Stability, Access",,
+3268,"It has worked as expected, the IU is exceptional ",5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+3271,wish i could pull up insurance cards,4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,,
+3301,"Should read, ?employee received an inclusive Kudos? instead of a inclusive Kudos, due to grammar rules. ",NULL,Frown,iOS,Send-A-Smile,Issue,UI,Kudos,Yes
+3316,very nicely designed app. all important stuff easily accessible.,5,Feature Survey,Android,Floodgate,Appreciation,UI,,
+3327,"Report on vacation balance, sick balance would be nice. ",5,Feature Survey,iOS,Floodgate,Enhancement Request,UI,,
+3334,Great functions if they work. seems to be not available more than available,3,Feature Survey,Android,Floodgate,Issue,Reliability/Stability,,
+3336,it's great! a bit slow to load otherwise I've found it very helpful.,4,Feature Survey,Android,Floodgate,Enhancement Request,Performance,,
+3340,The pop up of the app not working should be more clear on how to fix,4,Feature Survey,iOS,Floodgate,Issue,Reliability/Stability,,
+3341,unfortunately can't make good use of a number of features since we are currently working from home. ask me again once we are back to the office.,4,Feature Survey,Android,Floodgate,Critique,Other,,
+3353,Really nice looking app,NULL,Smile,Android,Send-A-Smile,Appreciation,UI,,
+3358,Please show how much is subject to expire. ,NULL,Frown,Android,Send-A-Smile,Enhancement Request,UI,Time-Off,Yes
+3372,"Explore , cafe , connector is redundant at this time . Should be taken out .  Thanks button to perspectives takes to Kudos outside of app, would be nice to have that open Kudos in the app .  Overall the app has great design , easy to use . Would love to see personalization .",4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,"Explore, Cafe, Connector, Kudos",Yes
+3378,"I like the app. On the vacation page, I would love to see both the total vacation that will be accrued by the end of the year, as well as the total remaining for the year.",4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Time-Off,Yes
+3386,"Easy to use, lots of info available. Benefits integration would be awesome.",5,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Benefits,No
+3392,Still learning the app. ,4,Feature Survey,iOS,Floodgate,Enhancement Request,Early Survey Prompt,,
+3396,Feed slow to load ,NULL,Frown,iOS,Send-A-Smile,Issue,Performance,,
+3409,Great initiative. Lot of room for improvement. ,4,Feature Survey,iOS,Floodgate,Critique,Other,,
+3425,need to be able to multi-select receipts from folder instead of having to do it one by one.,2,Feature Survey,Android,Floodgate,Enhancement Request,UI,StayFit,Yes
+3429,Primarily use it for Health Check app. Super fast(faster than using the web page in a browser) and convenient. ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,HealthCheck,Yes
+3477,I cannot use the app because it now says I need to upgrade but it's not offering any upgrade. Broken.,NULL,Frown,Android,Send-A-Smile,Issue,Access,,
+3478,"It's great that we're increasing the amount of information available. However, updating the app was confusing recently.",4,Feature Survey,Android,Floodgate,Critique,UI,,
+3480,Important information ready for consumption,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3482,"Everything in one place! Love the Covid Daly check in, updates from my campus and Stayfit and the rest. Looking forward to submit my TAR on this on the future... I hope",5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,"HealthCheck, StayFit, News",Yes
+3498,"Haven?t really used the app yet, but on the surface it looks like it has just about everything I need in one place ",5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3500,"Doesn?t let me login with the error ?failed to retrieve user details. Functionality may be limited.? Probably because I don?t have Intune, but if that?s the case the error should say so. ",2,Feature Survey,iOS,Floodgate,Issue,Access,,
+3503,Need more business tools added though!,5,Feature Survey,Android,Floodgate,Enhancement Request,UI,,
+3524,Extremely responsive app with lot of relevant information. Health check works like charm. ,5,Feature Survey,iOS,Floodgate,Appreciation,Performance,HealthCheck,Yes
+3532,I didn?t even know it existed until last week so it?s awesome to find it. ,5,Feature Survey,iOS,Floodgate,Appreciation,Other,,
+3534,Nothing shows up when I click on the expense square. ,1,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Expense,Yes
+3540,"Just enabled the app lock feature and love it. Hey folks, overall, this is really a great app. I love it, seriously. Thank you for all of your hard work here and diligence. I hope to share this with your entire team. I use most of the features on a daily basis.",NULL,Smile,iOS,Send-A-Smile,Appreciation,Access,,
+3542,Great app with solid features.,4,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3544,simple,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+3558,It?s strange to popup a survey about my experience with the app immediately on my launching the app and not even having used it ??,4,Feature Survey,iOS,Floodgate,Enhancement Request,Early Survey Prompt,,
+3560,Keep up the good work on security,5,Feature Survey,Android,Floodgate,Appreciation,Access,,
+3561,In the time away app I need to be able to enter a specific number of hours. I rarely take a full 8 hours off during the week. ,4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Time-Off,Yes
+3562,Love all the features and tools in one place. Easy to use. Good data summaries (like vacation breakdown). I like that you can complete full tasks like Stayfit reimbursement end to end from the app!,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,"Time-Off, StayFit",Yes
+3563,Would like to also have donation / give information in this app. ,4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Give,No
+3568,Breath of fresh air when comparing it to the conventional tools we use on PC. ,5,Feature Survey,iOS,Floodgate,Appreciation,Performance,,
+3572,Expenses not showing up,4,Feature Survey,iOS,Floodgate,Issue,Reliability/Stability,,
+3573,Getting more and more out of this app on every update. Love the iterative addition of value! I prefer to do everything Corp from this app first. Great job!,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3578,It?s a pretty powerful tool with a lot of available and useful information.  ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3582,Very user friendly and many options available ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3591,simple! accessible! ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3620,"Great app, super useful for common tasks!",5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3635,Good app very useful ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3643,convenient tools for my mobile device,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+3644,"Keep adding more features, ",5,Feature Survey,iOS,Floodgate,Enhancement Request,UI,,
+3646,Very helpful!,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3664,"So far it seems very intuitive, user friendly, have a lot of good information and uses! I did try to enter a vacation day and encountered a Not Available error. However I was able to enter floating holidays and everything worked beautifully!",4,Feature Survey,Android,Floodgate,Issue,Reliability/Stability,Time-Off,Yes
+3665,No longer able to log in and just have a blank screen,1,Feature Survey,iOS,Floodgate,Issue,Access,,
+3667,Love almost everything in one place  ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3671,I was hoping to see even more - e.g. Status on past expense reports. Overall a pretty useful app. ,4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Expense,Yes
+3672,refuses to log me in,1,Feature Survey,Android,Floodgate,Issue,Access,,
+3674,"connectivity issues, and uncertainty if my communication went through",4,Feature Survey,Android,Floodgate,Issue,Reliability/Stability,,
+3682,Still feeling my way around the capabilities. Love the ease at which I can update my time off. Surprised I didn?t get an email notice of the submission which I was expecting.,4,Feature Survey,iOS,Floodgate,Enhancement Request,Other,Time-Off,Yes
+3695,"Links open in default browser.  Allow selection of browser for links to open in.  For example, Safari is my default browser.  I use Edge on my iPhone for work. I can?t open links from this app directly in Edge unless I make Edge my default browser. T *the attached screen shot shows the ?open links with? setting from the iOS Outlook app. ",NULL,Frown,iOS,Send-A-Smile,Enhancement Request,Ease of Use,Browser Selection,No
+3696,Way faster than the website. Thanks for the speedier Auth process via this app. ,NULL,Smile,Android,Send-A-Smile,Appreciation,Performance,,
+3698,"I just wanted to say that I'm super impressed. I don't think I've ever used an internal tool that's better than ""mostly works"", but this seems like a legitimately great app. Kudos, y'all! ",NULL,Smile,Android,Send-A-Smile,Appreciation,Performance,,
+3701,After logging in it fails to get any information and all I see is a blank screen with the logo.,1,Feature Survey,Android,Floodgate,Issue,Access,,
+3707,can't login. app hangs. no useful error message or way to report issues when see errror,1,Feature Survey,Android,Floodgate,Issue,Access,,
+3709,Centralized app,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3710,keeps crashing,1,Feature Survey,Android,Floodgate,Issue,Reliability/Stability,,
+3713,It?s snappy and has all the essential data. Good job.,5,Feature Survey,iOS,Floodgate,Appreciation,Performance,,
+3714,Biometric unlock as an option instead of only a PIN would be awesome!,4,Feature Survey,Android,Floodgate,Enhancement Request,Access,Biometric Unlock,No
+3718,Easy and intuitive to use,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3720,I was just thinking about an easy way to submit StayFit and the email came in to use this app! ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,StayFit,Yes
+3721,The vesting is a bit cumbersome given some stock vests a day or two apart,4,Feature Survey,iOS,Floodgate,Issue,Performance,Stock,Yes
+3724,"when i installed it on my Android device throu the web page, it did not install into my work professional so it would not work. had to manually uninstall and reinstall. it shells me out to the browser all the time, so thats a poor experience. it will not let me upload a receipt for reimbursement as the default file size is too big - thats just poor design.",2,Feature Survey,Android,Floodgate,Issue,Performance,StayFit,Yes
+3727,I love the one stop shop!,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+3729,do not use it enough,3,Feature Survey,Android,Floodgate,Enhancement Request,Early Survey Prompt,,
+3733,all stuff I care about is in one place finally!,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+3734,Not clear if this app is available only in the android work profile. My credentials loaded only when I downloaded this app on my work  profile.,3,Feature Survey,Android,Floodgate,Critique,Ease of Use,,
+3735,Mostly great but Expense Report tab doesn't show the one I have pending approval and the Tempe AZ office is not listed for room booking (not that it matters much now!),4,Feature Survey,iOS,Floodgate,Issue,Trust/Data Quality,"Expense, Book a room",Yes
+3738,just started to use it and it offer to clean the calendar for the holidays which is good.,4,Feature Survey,Android,Floodgate,Appreciation,UI,Holidays,Yes
+3740,cannot login,1,Feature Survey,Android,Floodgate,Issue,Access,,
+3744,"Like the app.  However, multiple times I?ve used the daily COVID health check before entering my office (in Reston) and then was sent an email saying I hadn?t completed the check.  Had to go back to using a web browser link for that function.",3,Feature Survey,iOS,Floodgate,Issue,Trust/Data Quality,,
+3745,Having wellness check in for building access in app makes it more convenient than using codes at building entrances.,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3749,"I can?t open the app, it says limited functionality so I can?t log my vacation or access resources ",1,Feature Survey,iOS,Floodgate,Issue,Reliability/Stability,,
+3752,Bummed I initially can?t see my payroll information but will do some digging ,4,Feature Survey,iOS,Floodgate,Critique,UI,,
+3754,some recent quirks with connection stability and tiles disappearing from dashboard,4,Feature Survey,Android,Floodgate,Issue,Reliability/Stability,,
+3755,App easy to navigate and it had all the information I needed.,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3762,Really hits the spot,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+3763,It just doesn?t do much. I can?t see the details of my paystub and I don?t see my expense reports. ,2,Feature Survey,iOS,Floodgate,Enhancement Request,"Reliability/Stability, UI","Paystub, Expense",Yes
+3768,"just installed, submitted vacation easily",5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,Time-Off,Yes
+3773,Easily access HR tools when needed.,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+3775,I like it?s simplicity and the diversity of the available resources in one single location.,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3777,User friendly  ,5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+3780,Very good job! It is super fast to start and navigate and presents lots of useful tidbits of information. Amazed!,5,Feature Survey,iOS,Floodgate,Appreciation,Performance,,
+3781,The app has revolved well into a must have app on my phone now!,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3783,Very user friendly and exceeded my expectation with all the different components included from vacation days to stay fit. ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,"Time-Off, StayFit",Yes
+3785,It's really neat!,4,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+3792,cannot login,1,Feature Survey,Android,Floodgate,Issue,Access,,
+3803,The app does not work on my Note8.,1,Feature Survey,Android,Floodgate,Issue,Access,,
+3811,Submitting stay for receipt isn't working well,2,Feature Survey,iOS,Floodgate,Issue,Performance,StayFit,Yes
+3812,East to use and adds value by allowing me to access personal Corp information quickly from my phone. ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3823,Unable to sign in now for three days after installing the app in my new phone ,1,Feature Survey,iOS,Floodgate,Issue,Access,,
+3850,I love this app. It?s been so hard to look at stuff that are so diverse and at very different places. This app is very much needed as consolidates all of these in one place. Thank you very much for creating this long needed app! ,NULL,Smile,iOS,Send-A-Smile,Appreciation,Ease of Use,,
+3860,Excellent product,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3888,It?s easy to access all the required information on personal device. Happy with the options provided.,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+3895,"Can?t sign in on my iPhone, saying can?t retrieve user details. ",1,Feature Survey,iOS,Floodgate,Issue,Access,,
+3896,After Google workplace I can't use my biometric to login. I need to provide pi,4,Feature Survey,Android,Floodgate,Issue,Access,,
+3902,I used the app for like maybe five minutes and you ask me NSAT? Seriously?,1,Feature Survey,iOS,Floodgate,Enhancement Request,Early Survey Prompt,,
+3909,"useful,central location to view some high frequency he related information.",5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+3914,Can?t log on,1,Feature Survey,iOS,Floodgate,Issue,Access,,
+3917,It doesn?t load past the splash screen?,1,Feature Survey,iOS,Floodgate,Issue,Access,,
+3943,"The Time Off tools flashes a bunch when I load it, and after a few seconds ends up showing incomplete data.",NULL,Frown,iOS,Send-A-Smile,Issue,"Trust/Data Quality, Performance",Time-Off,Yes
+3949,"Just noticed the notifications, very handy!",NULL,Smile,Android,Send-A-Smile,Appreciation,UI,,
+3950,The app gives me easy access to information I would normally have to visit several websites to get.    The only thing really missing would be the ability to log labor or at least have time off I submit via the app be logged in the Time system automatically. ,5,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Time-Off,Yes
+3953,Would like more features such as a breakdown of vacation days as seen in aka.ms/tar,4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Time-Off,Yes
+3966,Probably have better feedback when it?s fully functional ,3,Feature Survey,iOS,Floodgate,Critique,,,
+3989,Great interaction. Easy to see the info!,5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+3993,Erroring out when I open it. Trying logging out and back in as a possible solution.,2,Feature Survey,Android,Floodgate,Issue,Access,,
+3998,Useful and handy,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+4014,Extremely easy to use; not cluttered with too many features; tiles are clear and simple.,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4018,Weird authentication issues cause silent failure sometimes,4,Feature Survey,iOS,Floodgate,Issue,Access,,
+4042,"it's great, keep the integrations coming!",4,Feature Survey,Android,Floodgate,Appreciation,UI,,
+4047,"easy and quick to use, UI for tar is responsive and shows changes to my time off as I select dates, and I don?t have to go through multiple logins or get on a vpn ",5,Feature Survey,iOS,Floodgate,Appreciation,UI,Time-Off,Yes
+4050,Vacation submission was awesome ,5,Feature Survey,iOS,Floodgate,Appreciation,UI,Time-Off,Yes
+4053,very convenient,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+4054,Great dashboard view of important info.  ,5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+4059,Nice app. Some information is not provided in the app like a full pay stub. It currently pushes me to the green website.,4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Paystub,Yes
+4078,Receipt upload is now broken.  I used to be able to upload receipts but now I can't.  It doesn't do anything the receipt just isn't there.  I tried restarting and everything.  Something is broken.,NULL,Frown,Android,Send-A-Smile,Issue,Reliability/Stability,StayFit,Yes
+4088,I can get things done on my phone. The App is easy to use. ,4,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4092,Everything great but sending kudos takes a long time,4,Feature Survey,Android,Floodgate,Enhancement Request,Performance,Kudos,Yes
+4099,very easy to use and clear concise information at my fingertips,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+4120,Ease if use and features ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4125,Just started to use and very nice to have these functions available on app.  Really like it.  Can see how useful it will be when back on campus.,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4139,Been waiting for something like this for a long time  ,5,Feature Survey,iOS,Floodgate,Appreciation,Other,,
+4148,"I need to be able to submit pdf receipts, not just image files. Remove the filter please!",1,Feature Survey,Android,Floodgate,Enhancement Request,UI,StayFit,Yes
+4149,Love having all of the needed apps in on central easily accessible place.,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4153,Please implement dark mode ,4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Dark Mode,No
+4158,Love this app! Only giving 4 stars because Stayfit is unavailable right now.,4,Feature Survey,iOS,Floodgate,Issue,Reliability/Stability,StayFit,Yes
+4178,"Submitting vacation was way nicer and easier through this than our ancient TAR website. But the experience is limited, I want better reporting on my vacation and sick days overall, what I?ve taken, what?s remaining, how much is at risk of expiring. ",4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Time-Off,Yes
+4188,"First time use it, it's more convenient than website",5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4191,It?s an amazingly developed and designed app. ,5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+4192,Very handy tool to have without having to login into PC.,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4204,Finally an app that gives you one stop shop for MS employee.  Would love to see link to the company store!,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4219,This is a fantastic interface and great on iPhone - well done!,5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+4225,Good information in one place! ,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4234,Great ui  Love it ,5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+4245,"Cant upload any photo receipt with 5 MB limit. Any modern phone, the photo file size is larger than 5MB.",2,Feature Survey,iOS,Floodgate,Enhancement Request,UI,StayFit,Yes
+4258,Great and quick experience. ,NULL,Smile,iOS,Send-A-Smile,Appreciation,Performance,,
+4269,Good hub and gets better as features are added,4,Feature Survey,Android,Floodgate,Appreciation,UI,,
+4278,Was able to quickly find the information I was looking for  ,4,Feature Survey,iOS,Floodgate,Appreciation,Performance,,
+4284,Submitting reimbursement here was stellar! Assuming it goes through ok. So easy. Thank you! Please make expense reporting this easy. ,NULL,Smile,iOS,Send-A-Smile,Appreciation,UI,StayFit,Yes
+4286,This is an amazing app. It truly is the hub of information. Looking forward to more features and functions.,5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+4291,Can you please add to get reimbursement for prescription and medical ,5,Feature Survey,iOS,Floodgate,Enhancement Request,UI,Medical Reimbursement,No
+4300,Create a checklist of things I need to do or complete. This would be especially useful for a new hire.,4,Feature Survey,Android,Floodgate,Enhancement Request,UI,New Hire Checklist,No
+4328,Helpful,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4333,Easy to see useful info on dashboard,5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+4334,Did not use it much.  The app is a great idea with a lot of potential for becoming super useful. ,4,Feature Survey,iOS,Floodgate,Enhancement Request,Early Survey Prompt,,
+4346,Very easy app.,5,Feature Survey,Android,Floodgate,Appreciation,Ease of Use,,
+4352,My first time using it and I love it. Easy to use.,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4388,Great start as a central hub for employee actions ,4,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4389,I love the ease and hope more things comes soon!!,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4393,"All the stuff I use most often in the same place, fantastic!",5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+4410,"buttons will cut the last letter off of a word like ""continu"" instead of ""continue""",4,Feature Survey,Android,Floodgate,Enhancement Request,UI,,
+4413,1. Multi selection of files for upload should be allowed in one go 2. Please show preview of attached file 3. Add receipt scanning for auto adding dates and amounts,NULL,Frown,Android,Send-A-Smile,Enhancement Request,UI,StayFit,Yes
+4433,I like this ,5,Feature Survey,iOS,Floodgate,Appreciation,Other,,
+4437,Quick and easy access on phone!!,5,Feature Survey,iOS,Floodgate,Appreciation,Performance,,
+4448,"It should be easier to express the tax on StayFit reimbursement items, and to also use one receipt for multiple items.",4,Feature Survey,iOS,Floodgate,Enhancement Request,UI,StayFit,Yes
+4455,Thanks for making this. First iteration and it's already super cool and useful. Props to those behind this effort,NULL,Smile,Android,Send-A-Smile,Appreciation,Ease of Use,,
+4460,Just used this for the first time to submit vacation. Great experience!!!!,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,Time-Off,Yes
+4465,Well done,5,Feature Survey,iOS,Floodgate,Appreciation,Other,,
+4466,So far so good,5,Feature Survey,iOS,Floodgate,Appreciation,Other,,
+4475,Love the snapshot of key information relevant to me.,5,Feature Survey,iOS,Floodgate,Appreciation,UI,,
+4477,Ease of use and availability on my mobile,5,Feature Survey,iOS,Floodgate,Appreciation,Ease of Use,,
+82,"Customer Health Dashboard could be integrated into Account 360 (maybe as a link)? Nice views, with historical revenue split per product, other KPIs + benchmark to Industry. https://msit.powerbi.com/groups/me/reports/0780f76c-fd26-4585-880b-0d6449010461/ReportSection?bookmarkGuid=Bookmark620a4065b86642800934&ctid=72f988bf-86f1-41af-91ab-2d7cd011db47",NULL,Idea,Web,User Voice,Enhancement Request,Ease of Use,"Customer Health Dashboard, Account 360",Yes
+83,"This will facilitate value tree creation , Share of Wallet calculation,  for many teams , rather than looking up this info online. Will increase value added of the tool enormously. As a next step, it could be even adding  calculation of IT spend (usually not published by custmers but can be deducted as industry average % of revenue for example), and automating industry value tree.",NULL,Idea,Web,User Voice,Enhancement Request,Ease of Use,Wallet,Yes
+89,It would be great to have the Headquarters and downstream locations clearly deliniated as such within the standard views of Account 360,NULL,Idea,Web,User Voice,Enhancement Request,UI,"Headquarters, Account 360",Yes
+2472,It would be incredibly helpful if we were able to save our specific customers as favorites and not have to use filters to get to the customer data EVERY time that we open MSXI.  This is incredibly time consuming.  Is this possibly in later iterations of MSXI?  Please give us hope! Thank you!,NULL,Frown,Web,Send-A-Smile,Enhancement Request,Ease of Use,,Yes
+2532,"The white space wasted by the Benchmark View which is generally useless to specialists and probably others is annoying.  Give us teh ability to remove that visual, or make it smaller.  We need the visual above and the Engagements and Milestones view below",NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,"Benchmarks, Engagements, Milestones",Yes
+2537,The Milestones by Month view which is the most important view for me as a specialist has been made completely useless because i can't see the months on my screen - too many useless fixed fields and no ability for me to customize the view for what i need.,NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,Milestones,Yes
+2555,do you really think those colours help?,NULL,Frown,Web,Send-A-Smile,Critique,UI,,
+2595,My get help function does not work and I need to open a ticket. ,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,Get help,
+2601,"seem to be missing details on a lot of metrics: ACR - Where can I find the ""partner influenced ACR"" for my account? Did have a great report out of C&AI before, but now this is nowhere to be seen. MW - Where can I find consumption for Windows, OPP, EXO, SPO, etc. We used to have this metric shown on the MWC business review, but now I can only see Team MAU.  Frustrating when we are trying to track progress year over year. I get it that we are focused on different metrics this year (i.e. we get paid on Teams MAU), but honestly, Teams is a */component/* of overall Modern Work consumption, and part of the story. Would be good if we could keep reports at least somewhat consistent from FY to FY ....  Thanks!! brent.",NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,"ACR, Modern Work Consumption",Yes
+2606,Sales Forecast- Forecast Build - the product button selects the sector (already button for Sector) - not showing the product breakdown,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,Sales Forecast,Yes
+2618,Why am I showing Win10 OEM only at ~7k instances when UPS has ~214k deployed? ,2,Feature Survey,Web,Floodgate,Issue,Trust/Data Quality,,
+2639,"Hi Team,   in the SMB report we see ARPC (currently declining) but we only see Dynamics 365 which is currently including Power Platform revenue. As normally Power Platform projects are smaller in revenue it is hard to get a clear picture about the situation. Can we split Power Platform and Dynamics 365 in the report? ",NULL,Frown,Web,Send-A-Smile,Enhancement Request,Ease of Use,"SMB, Power Platform, Dynamics 365",Yes
+2663,"The grey text in MSXi can be difficult to read, especially as zooming in on browser does not increase the size. This is an accessibility issue. Even with good eyesight I struggle sometimes to focus on the text and makes it tiring to use MSXi",NULL,Frown,Web,Send-A-Smile,Issue,UI,,
+2708,"Some numbers in ""Account 360"" do not make any sense. And I would appreciate more descriptions, as some metrics are not self-explanatory (like # ARM deployment in the Azure part)",4,Feature Survey,Web,Floodgate,Critique,Ease of Use,Account 360,Yes
+2722,Why is the Azure Summary now under:  Data & AI / Manager to Team / Azure Summary !?  This does not make sense,NULL,Frown,Web,Send-A-Smile,Critique,Ease of Use,Azure Summary,Yes
+2914,The query page is hang after click search with [PII: GUID]. It used to work well before.,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,,
+2958,"We are trying to share more information with our customers on investments we are making into the relationship (ECIF, ACO, etc) and having a summary view / widget in the A360 dashboard that shows OneAsk request details (status, amount, date, purpose) would be very useful.",NULL,Idea,Web,User Voice,Enhancement Request,UI,Account 360,Yes
+2994,Cause i think so,3,Feature Survey,Web,Floodgate,Critique,Other,,
+3011,The interface is not modern and requires navigating too many levels to accomplish simple tasks. As a member of the sales team I find I am double keying information from my Notes (customer note taking) environment. What we need is a field friendly (in customer meeting) interface. ,1,Feature Survey,Web,Floodgate,Critique,UI,,
+3039,"I'd love more capabilities to easy customize views, add columns etc... it is cumbersome now",4,Feature Survey,Web,Floodgate,Enhancement Request,UI,,
+3040,"too much legacy data still sitting in view, need to drilling into individual opps to update summary fields, too many columns on screen ",2,Feature Survey,Web,Floodgate,Critique,UI,,
+3044,Possibility to extract the data to excel,4,Feature Survey,Web,Floodgate,Enhancement Request,UI,,
+3050,Performance gets very slow on occasion. ,2,Feature Survey,Web,Floodgate,Critique,Performance,,
+3058,Please add the option to right click a lead and open a new tab. I feel this would be beneficial to anyone that uses MSX to be more efficient,NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,Lead,Yes
+3066,I haven't found matches between insights information and the real activities happening with my customers.,NULL,Frown,Web,Send-A-Smile,Critique,UI,,
+3080,"Navigation not easy e.g. how to go back to the opportunity from the New Product page? Also, search is not easy e.g. finding all opportunities for a certain product within a specific country.",2,Feature Survey,Web,Floodgate,Critique,UI,,
+3105,I have the wrong role assigned to me and I can't change it per the MSXI instructions.  How do I go about changing from ATS Role --> FastTrack Modern Work Architect Role?,NULL,Frown,Web,Send-A-Smile,Critique,Ease of Use,,
+3111,"I would like to see not only the AE but also CSP, Dynamics Speciaslists  Also searching on more fields than just account name seems difficult - ",3,Feature Survey,Web,Floodgate,Enhancement Request,UI,,
+3142,we need more speed of this system,4,Feature Survey,Web,Floodgate,Critique,Performance,,
+3151,"When you have drop downs for say azure capacity type, any chance you can have a WIDE drop down so you don't see just azure comp for 33 entries...do you people actually use this rubbish app?",NULL,Frown,Web,Send-A-Smile,Critique,UI,Azure Compensation,Yes
+3160,when dialing by name the Telephony number pad is gone when in a call and you have to go get Skype's number pad pulled up to do so. Wish I could use the Telephony number pad.,NULL,Frown,Web,Send-A-Smile,Critique,Ease of Use,Telephony,Yes
+3169,"Sometimes it's pretty slow. The tiny save button a the bottom of the screen is not intuitive. Account Planning activities cannot be done within MSX, so a separate tool has to be used and not many use it. ",4,Feature Survey,Web,Floodgate,Critique,Ease of Use,Account Planning,Yes
+3195,"This is a suggestion, since this is a complex tool is it possible to have a live assistant? in the form of bot to help with certain functions.",4,Feature Survey,Web,Floodgate,Enhancement Request,Ease of Use,,
+3196,"Hi, could we get a short description of the metrics and abbreviations? Now it's unclear for everyone in our subsidiary what e.g. ""AAD MAU"" or ""AAD MAU WS"" means. It would save so much time if there would be a short description of each metric on the report itself (like the CELA disclaimer)",NULL,Idea,Web,Send-A-Smile,Enhancement Request,Ease of Use,,
+3199,The view for monthly view target is missing and it is really hard to see.,NULL,Frown,Web,Send-A-Smile,Critique,UI,,
+3203,"It's hard to see what trial a lead is participating in, and I have to go to another tab to find out. I also have to search for each leads contact preference, as some don't like to be called/emailed. I would recommend making this information easier to locate so we can call leads faster.",NULL,Frown,Web,Send-A-Smile,Critique,UI,,
+3207,It doesn't flow well. It isn't easy to get back to a lists that you have searched on.,1,Feature Survey,Web,Floodgate,Critique,Ease of Use,,
+3209,Interface is easy to use.,4,Feature Survey,Web,Floodgate,Appreciation,UI,,
+3243,Telephony does not accurately keep track of the number of phone calls when you are using telephony to hang up or if you are using the Skype interface to hang up the phone,NULL,Frown,Web,Send-A-Smile,Issue,Trust/Data Quality,Telephony,Yes
+3244,"Calls are not being tracked through Telephony. Although I make calls, and leave a voicemail or talk to a lead it won't track, and show that I have made 0 calls. I have to go into Skype and manually count the amount of calls I have made.",NULL,Frown,Web,Send-A-Smile,Issue,Trust/Data Quality,Telephony,Yes
+3247,Telephony System does not exist in right pane today. Was present and working yesterday. ,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,Telephony,Yes
+3248,I keep running into this issue when I click on activities tab on the left.,NULL,Frown,Web,Send-A-Smile,Critique,UI,Activities,Yes
+3249,"To fix current Telephony issue, clearing browser cache did fix my issue. ",NULL,Smile,Web,Send-A-Smile,Critique,Trust/Data Quality,Telephony,Yes
+3250,"MSX content hub doesn't give me any relevant information I'm looking for.   I type in Modern Work (with filter on Presentation, Customer Ready etc.) and insted of getting a standard Modern Work pitchdeck, I get a services deck, surface and even .NET decks...it is not even possible to report that the search results were not relevant to my search.   Definitely needs improvement if this feature should save time",NULL,Frown,Web,Send-A-Smile,Enhancement Request,Ease of Use,"MSX Content Hub, Modern Work",Yes
+3255,Call logs not tracking correctly. Cross referenced with Skype for business to check accuracy. ,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,,
+3269,Just starting using heavily - some queries are kind of slow,3,Feature Survey,Web,Floodgate,Issue,Performance,,
+3277,It is not easy to navigate and not intuitive.,2,Feature Survey,Web,Floodgate,Critique,Ease of Use,,
+3287,MSX it's to slow. ,3,Feature Survey,Web,Floodgate,Critique,Performance,,
+3290,"hard to navigate, hard to save changes",1,Feature Survey,Web,Floodgate,Critique,UI,,
+3306,I resize the columns to better see the data for particular areas. I do not like that every time I do this and the page is refreshed it goes back to normal. Please either let it save client side or give me an option to set the defaults myself. ,NULL,Frown,Web,Send-A-Smile,Critique,UI,,
+3311,I need my view to be changed from US to LATAM for job purposes,NULL,Frown,Web,Send-A-Smile,Issue,Trust/Data Quality,,
+3355,I have made ~8 calls today and Zero have been tracked via Telephony count at the bottom. ,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,,
+3359,"Having to enter Activity TASKs one by one is very tedious. A copy/clone function is missing bc. often I have to enter the same data again and again.   Multi-edit for success engagements does not allow to add people to the sales team (the fields are not available), therefore I need to open them one by one and add myself to each individually.  You see two opportunities for remove time wasters in MSX. ",NULL,Frown,Web,Send-A-Smile,Enhancement Request,Ease of Use,Activities,Yes
+3360,The auto-save feature often interrupts my typing.  It steals cursor focus or disrupts input of milestones in the spreadsheet layout.  How can I control the auto-save? ,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,,
+3369,I love the work hub. The dashboards need some work but overall it's good.,5,Feature Survey,Web,Floodgate,Appreciation,UI,Workhub,Yes
+3382,"I love it, way better than the desktop version. I am just experiencing a lot of issues with my telephony. It hasnt allowed me to place calls and now today. Once telephony is stable and working, it would 5 stars.",4,Feature Survey,Web,Floodgate,Issue,Reliability/Stability,Telephony,Yes
+3391,hard to understand what elements of an opportunity i need to populate to get it to function in C1 and ESXP... would be great if these elements were all grouped together in one view or tab,3,Feature Survey,Web,Floodgate,Critique,Ease of Use,ESXP,Yes
+3440,inaccurate depiction of deal,NULL,Frown,Web,Send-A-Smile,Issue,Trust/Data Quality,,
+3486,"Impossible to do proper work management in an Agile manner, specially if you are a technical resource",1,Feature Survey,Web,Floodgate,Issue,Reliability/Stability,,
+3487,Searching by subscription ID doesn't seem to terminate.,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,,
+3493,Loving the new Work Hub Upgrade! I would love to bring back the Created on: Date/Time on the gray bar at the bottom of the page.  ,NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,Workhub,Yes
+3495,"Contact preferences are not accurate, if a lead has do not contact for calling/emailing it won't present on the website. For 2 leads I went back to apportal and it confirmed these 2 leads have DNC for calling. Please fix this issue, and accurately show contact preferences so I don't have to go back to apportal. ",NULL,Frown,Web,Send-A-Smile,Issue,Trust/Data Quality,Contacts,Yes
+3516,"It is very counter intuitive, that Success Engagement Status and Milestone Status is seperated. Milestones status should be affected by Success Engagement status. When I close a Success Engagemetn either as cancelled or completed, I would expect the Milestones (that are not yet cancelled or completed) to be cancelled or completed, too.",NULL,Frown,Web,Send-A-Smile,Enhancement Request,Ease of Use,"Milestones, Engagements",Yes
+3539,Built in way to see trial periods in Lead summary. Currently need to go to CMAT which seems inefficient,NULL,Frown,Web,Send-A-Smile,Enhancement Request,Ease of Use,"CMAT, Leads",Yes
+3579,"I don't like that we can't manually change when the follow-ups get scheduled in Work Hub. I just had a customer answer my call, they're two days into their M365 trial, and I want to follow up in about a week to give them time to try out the trial. Sales Accelerator still says that the next Follow-Up should be in two days, as if the call went unanswered. And as far as I know there is no way to override that. I can snooze the follow-up, but I would need to make a note as a reminder to snooze it when it pops up in two days.",NULL,Frown,Web,Send-A-Smile,Enhancement Request,Ease of Use,Workhub,Yes
+3627,MSX timeline tab options. Put phone call at the bottom please,NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,Timeline,Yes
+3629,"The measurement for deal risk do not take into account federal contracting, funding steps, procurement considerations, etc.  This is a distraction for a seller and doesn't add any value to accelerating a deal other creating unnecessary concerns. ",NULL,Frown,Web,Send-A-Smile,Critique,Ease of Use,Risk,
+3636,"Very flexible, but also very confusing to use/navigate. Usually requires customizing views and a lot of spelunking  to find exactly what you need. ",3,Feature Survey,Web,Floodgate,Critique,UI,,
+3675,"When adding a new lead product under the ""Solution"" tab, clicking ""Save & Close"" leads to several script errors and you have to click through them and ""Save & Close"" up to 5 to 10 times for it to finally save and close. ",2,Feature Survey,Web,Floodgate,Critique,Reliability/Stability,Solution,
+3681,UX needs to be updated to align with how we use MSX,4,Feature Survey,Web,Floodgate,Critique,UI,,
+3692,"For A360, it would be great to be able to search by website as well, as often this is something that comes quickly to mind, whereas putting in any IDs generally involves leaving the window and copy/paste, and account name can result in multiple results. Websites are unique to the customer.",NULL,Idea,Web,User Voice,Enhancement Request,UI,Account 360,Yes
+3699,"Some MSX accounts have a LinkedIn profile that doesn't link with the name on the profile. An example would be account name: AIRBORNE SYSTEMS NORTH AMERICA. When I go to their LinkedIn tab, a company called HDT Global pops up instead. Can you adjust or fix please? Thank you!",NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,LinkedIn,
+3746,"I love using MSX, but I find the Save/Save and Close buttons do not function all of the time. I often need to manually close Leads/Opportunities and then find out that the changes were not saved even though they appeared to after pressing the Save button.",4,Feature Survey,Web,Floodgate,Issue,Reliability/Stability,,
+3756,"add. Account executive, CSMA Manager, CSAm, CE working on this accounts..",NULL,Idea,Web,User Voice,Enhancement Request,Ease of Use,,Yes
+3826,"It's slow, awkward and very rigid. I hate it.",1,Feature Survey,Web,Floodgate,Issue,Performance,,
+3845,Some recurrent bugs are still here,4,Feature Survey,Web,Floodgate,Issue,Reliability/Stability,,
+3867,"The new Work Hub ""my work"" sections does not have the ability to organize my leads by who needs to be contacted first. The current structure has my first contact at the very bottom of the list and the last contact at the top. Can I have a way to invert that? I want the lead that needs to be contacted first at the top. ",NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,,Yes
+3873,Telephony works intermittently and does not always track calls/duration of calls  ,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,Telephony,Yes
+3874,my telephony goes in and out of service. Somedays it will be connecting for over three hours until I am able to make a call ,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,Telephony,Yes
+3875,"The contact timer in Work Hub works for everyday, but I think it should be business days only (Monday-Friday). A lot of us on Assisted Sales Teams don't work weekends and when its counting everyday, it thinks we should contact customers on weekends too. ",NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,Workhub,
+3876,Continually have to clear browser cache and restart to regain access to telephony/call tracking.,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,Telephony,
+3881,"When using the WorkHub to pull leads, it doesn't take my geolocation in consideration. I get leads from different time zones (I'm currently on ET) and I even got leads from Australia and Hawaii, that have a huge difference on the time. This is not an efficient way to work with leads, calling and doing outreach for customers.",NULL,Frown,Web,Send-A-Smile,Issue,Trust/Data Quality,Workhub,
+3882,Can we have a PIN option for recent Source Campaigns we have used?,NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,Source Campaign,No
+3915,The MSX tool is not very intuitive and the data is not very accurate.,2,Feature Survey,Web,Floodgate,Critique,Ease of Use,,
+3934,Partner sharing should be included in both ACR Weekly Scrum and Manager IC Scrum to ensure the conversation can be had in scrum rhythms and v-team collaborating,NULL,Idea,Web,Send-A-Smile,Enhancement Request,UI,"ACR Weekly Scrum, Manager IC Scrum",Yes
+3938,Allow copy and paste from leads that aren't yours? ,NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,Lead,Yes
+3947,The lead Score field in Sales Accelerator is not matching with what is portrayed in overall lead views and what GDC can see,NULL,Frown,Web,Send-A-Smile,Issue,Trust/Data Quality,Sales Accelerator,
+3961,Not intuitive at all,3,Feature Survey,Web,Floodgate,Critique,UI,,
+3986,"Browsing back can improved Organizing columns in Opportunities tab, under My Opportunities  dashboard could be easier. I just need to organize columns in a different order, without the need to create a custom report. ",4,Feature Survey,Web,Floodgate,Critique,UI,Opportunities,
+3994,Too many problems to list in this small feedback text box. Let's start with no obvious way to see a list of all success engagements for customers I own assigned Premier Developer Support agreements/packages.,1,Feature Survey,Web,Floodgate,Critique,UI,Engagements,
+4013,"The Solution tab is still broken. When adding a New Lead Product clicking ""Save & Close"" results in script error after script error and I have to click on ""Save & Close"" 5 to 8 times before it finally saves and closes. It's been slowing me down a lot when trying to help customers.",1,Feature Survey,Web,Floodgate,Issue,Reliability/Stability,Solution,
+4038,"For Azure Credit Offer in OneAsk, how do I change the engagement stage from Envision to 3-Commit 4 Onboard?  ",2,Feature Survey,Web,Floodgate,Enhancement Request,Ease of Use,"Azure Credit Offer, OneAsk, Engagement",Yes
+4150,Please improve the score rate accordingly,NULL,Frown,Web,Send-A-Smile,Enhancement Request,Trust/Data Quality,,
+4159,The UAT Action button on the milestone page goes to a dead link. ,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,Milestone,
+4162,"my notes and all the stage and committed levels indicate this will definitely close as a win within 48 hours, yet the confidence score for the deal is 56%? The algorithm is not weighting the right metrics in calculating risk.",NULL,Frown,Web,Send-A-Smile,Issue,Trust/Data Quality,Risk,
+4167,"The status, stage, committment level and notes all indicate this order is in processing, and will close as a Win in 48 hours, yet the sales risk score is 11%? The algorithm is not correctly weighting something.",NULL,Frown,Web,Send-A-Smile,Issue,Trust/Data Quality,Risk,
+4168,"this is a beautiful view ... but totally unhelpful to only see day over day growth ... to manage the account we must see a three month view ... to understand the general trend in the account  SO please keep this view but make it week over week for three month ... it will totally support our reviews, analysis and management.",NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,,Yes
+4174,"The telephony hub requires browser and computer restart very frequently in order to have a ""connected"" status and dial numbers. ",4,Feature Survey,Web,Floodgate,Issue,Reliability/Stability,Telephony,
+4211,The lead creation date was removed from the bottom of the screen on MSX. The opportunity creation date is still available but lead creation date is not. ,NULL,Frown,Web,Send-A-Smile,Issue,Reliability/Stability,,
+4218,"Please update Work Queue contact cadence to not fall on Saturdays/Sundays, as these are not work or outreach days.",NULL,Frown,Web,Send-A-Smile,Enhancement Request,UI,Work Queue,Yes
+4243,Solution tab still has script errors all over the place.,2,Feature Survey,Web,Floodgate,Issue,Reliability/Stability,Solution,
+4267,I mainly use the Opportunities section and look up Accounts and enrollments. The back arrow does not respond always to return to the input screen so I can look up another Account.,4,Feature Survey,Web,Floodgate,Issue,Reliability/Stability,Opportunities,
+4307,Dynamics 365 for Outlook does not sync fluidly. And there needs to be away to copy the Lead ID or Opportunity ID without having to open it fully. ,4,Feature Survey,Web,Floodgate,Issue,Reliability/Stability,Outlook,
+4363,"The platform is a great tool to work with, it only lacks a little bit of responsiveness. Reducing loading times (especially upon creating accounts) would considerably shorten my days :)",5,Feature Survey,Web,Floodgate,Enhancement Request,Performance,,Yes
+4400,"very hard to understand how it works, very hard to include javascript widgets",1,Feature Survey,Web,Floodgate,Critique,Ease of Use,,
+4423,It is a bit buggy and redundant.,3,Feature Survey,Web,Floodgate,Critique,UI,,
+237,Smart and well working app. Expandable in future - for instance personal messages and notifications from MS to user.  ,,,,,Enhancement Request,,None,
+238,It gives me quick access to the things I need.,,,,,Appreciation,,None,
+239,This is awesome! ,,,,,Appreciation,,None,
+240,It would be nice to be able to put in half sick day into the time reporting,,,,,Enhancement Request,,Time-Off,
+241,I like the feed with related tech news. Especially when it's related to xbox / Azure,,,,,Appreciation,,Feed,
+242,Making progress. Would love more granular detail for Pay and stock awards. ,,,,,Enhancement Request,,"Paystub, Stock",
+243,"I  would be ok with access to vacation balance, health check etc, but also prefer to have authentication for that.  Personal information like paystub, stock info etc readily available without any security authentication (Face ID or pin code) . That’s not good.   Deleting the app.   ",,,,,Enhancement Request,,"Paystub, Stock",
+244,I'd like to be able to see my health benefits. Especially the HSA.,,,,,Enhancement Request,,None,
+245,it didn't login,,,,,Issue,,None,
+246,Login to my hub is not carried over to health check.,,,,,Issue,,HealthCheck,
+247,I really enjoy having easy access to this kind of information.,,,,,Appreciation,,None,
+248,The requirement that I enroll my personal device into Intune prevents me from using this app.  I know there are others out there with similar privacy concerns.  I am excited about the features that this app has and will soon have - I just can't bring myself to enroll my personal device into Intune/MDM solutions. What's the timeline for a MAM-based deployment offering?,,,,,Issue,,None,
+249,I was sold on this having the ability to submit stayfit receipts but I don’t see the option anywhere. Is it coming soon or am I missing something? ,,,,,Enhancement Request,,StayFit,
+250,It's so hard to just log in. Maybe too much trouble for this app.,,,,,Issue,,None,
+251,the paycheck quick view is really convenient.,,,,,Appreciation,,Paystub,
+252,hangs shit app,,,,,Issue,,None,
+253,The app needs dark theme :),,,,,Enhancement Request,,None,
+254,haven't used it yet.  just checking it out,,,,,Enhancement Request,,None,
+255,I am glad to easily access these details. It is extremely useful and keeps it top of mind.,,,,,Appreciation,,None,
+256,I don't see any options to enable OOO message or calendar blocks for the vacation time I have booked via the app.  I can see that option for national holidays. it would be great to enable OOO message and calendar blocks for vacations booked via the app.  I also noticed that my health benefit is not the same as what is on the benefits website. I am enrolled in Pro Club benefit but I see stayfit as my benefit in the app.,,,,,Enhancement Request,,"StayFit,Holidays",
+257,"Still not working at my side, dashboard keep loading  ",,,,,Issue,,None,
+258,So far so good  ,,,,,Appreciation,,None,
+259,"Amazing, simple UI. And everything Finally! No more //tar or Thrive Time Away!",,,,,Appreciation,,Time-Off,
+260,I just installed the app a few minutes ago.  I have not been able to use it yet.  Perhaps waiting for a week or so before popping the feedback experience would be better.,,,,,Enhancement Request,,None,
+261,It's great to have everything all in one place!,,,,,Appreciation,,None,
+262,The app allows me to check quickly without going into the browser and have to log in in different pages,,,,,Appreciation,,None,
+263,I don't like giving access to contacts,,,,,Enhancement Request,,None,
+264,I haven’t had a chance to use the app before you’re asking if I like it today.,,,,,Enhancement Request,,None,
+265,Dark mode!,,,,,Enhancement Request,,None,
+266,"It just looks so neat and uncluttered, while giving me access to the Benefits resources I access most often in one simple app! Thank you!",,,,,Appreciation,,None,
+267,This app enabled most of the basic needs on finger tips. ,,,,,Appreciation,,None,
+268,Pretty good. Very effective. Please make the COVID-19 healthcheck better. The repeated sign-in makes no sense.,,,,,Issue,,COVID,
+269,"Working from home, I haven't had an opportunity to try a lot of the features of the app. I was way better to use the app for reporting time off than from the browser.",,,,,Appreciation,,Time-Off,
+270,"SayFit not synching properly. Also, submitted items not shown.",,,,,Issue,,StayFit,
+271,I like having all this information available on one easy to use app. ,,,,,Appreciation,,None,
+272,Convenient and easy to use.,,,,,Appreciation,,None,
+273,"User friendly, simple to understand, and nothing more than what I need. Thank you. ",,,,,Appreciation,,None,
+274,doesn't load. insanely slow.,,,,,Issue,,None,
+275,Really happy with the app,,,,,Appreciation,,None,
+276,there's not a lot I can do with it at the moment,,,,,Enhancement Request,,None,
+277,Easy to use,,,,,Appreciation,,None,
+278,I click on the agreed button but never let me continue! ,,,,,Issue,,None,
+279,Keep adding features. I like having all these tools under one umbrella,,,,,Enhancement Request,,None,
+280,Self attestation didn’t work yesterday (only time I’ve tried). Several of the functions were actually not working. Was that related to the AAD outage?,,,,,Issue,,None,
+281,Love having tar and stay fit reimbursements in one app on my phone,,,,,Appreciation,,StayFit,
+282,So convenient. I love it and the new options coming.,,,,,Appreciation,,None,
+283,Could not find it in the work ay store by searching for MyHub,,,,,Enhancement Request,,None,
+284,Prefer to ask for a password when opening app so privacy is preserved ,,,,,Enhancement Request,,None,
+285,Not MyHub’s fault but I can’t do a health check due to issues with Authenticator app.,,,,,Issue,,HealthCheck,
+286,The tiles seems to go away sometimes and is reset,,,,,Issue,,None,
+287,Various apps are useful and clear ,,,,,Appreciation,,None,
+288,just started using and so far it has been very useful to see all the data in one location,,,,,Appreciation,,None,
+289,Easy to use,,,,,Appreciation,,None,
+290,This looks quite useful,,,,,Appreciation,,None,
+291,"Keep adding more features, glad we have an app to see all my info",,,,,Appreciation,,None,
+292,It gives at a quick glance really good information.,,,,,Appreciation,,None,
+293,Looks ok but nothing really useful on the phone. I’ll use the pc for most things.,,,,,Enhancement Request,,None,
+294,it shows a blank page,,,,,Issue,,None,
+295,Wow love this app everything I need is here great job. Thank you,,,,,Appreciation,,None,
+296,to give a 5 I would love to be able to put expenses in the app! thank you! great job!!!,,,,,Enhancement Request,,Expense,
+297,Easy to use.,,,,,Appreciation,,None,
+298,"Plenty of info, easily accessible. Thank you! ",,,,,Appreciation,,None,
+299,very convenient and easy to use.,,,,,Appreciation,,None,
+300,"I can see things here, but I can't do much here. it's great to see more of the rewards stuff come in, but the rewards website where I needed to go to accept my stock award doesn't work on mobile. still 4 stars cuz that's on them, not MyHub, but it'll be a five star when you can let me take more actions without leaving this app please. thanks and keep up the great work!",,,,,Enhancement Request,,None,
+301,haven't used it enough to form an opinion,,,,,Enhancement Request,,None,
+302,Would like to see more paystub info more so than totals. Also paystub info is tied to fiscal year not calendar but monitoring my 401k is calendar year. So it's inconsistent with hrweb,,,,,Enhancement Request,,Paystub,
+303,"Really like the paystub, expense, and TAR entry features. Looks great !!",,,,,Appreciation,,"Paystub,Expense,Time-Off",
+304,"convenient, many useful functions, easy to use",,,,,Appreciation,,None,
+305,"It would be great to be able to take partial days off via this app, rather than having to go to TAR.",,,,,Enhancement Request,,Time-Off,
+306,App is hanging ,,,,,Issue,,None,
+307,Doing 2FA in the app was fun,,,,,Issue,,None,
+308,Shouldn't have to sign in 3 times just to get an error,,,,,Issue,,None,
+309,Expenses area seems wonky. ,,,,,Issue,,Expense,
+310,Haven't used yet ,,,,,Enhancement Request,,None,
+311,"There appear to be two versions of the app, public and internal. Public version is broken, constantly demanding that you log in and enroll the device. That is pretty confusing and annoying.",,,,,Issue,,None,
+312,I haven't used it enough to firm an opinion. Asking me what I think of the app before I've used it in anger is kind of silly.,,,,,Enhancement Request,,None,
+313,The app isn’t fully loading today but has been pretty great before today. ,,,,,Issue,,None,
+314,Need more time to use it. Perhaps could use some customization for alerting on payroll and vesting events. Reminders on how much vacation time is at risk. Deadlines for using FSA and stay fit. Links out to HSA funding or HSA investment info.  ,,,,,Enhancement Request,,"Paystub,Stock,Time-Off,StayFit",
+315,Need hourly granularity when adding time off,,,,,Enhancement Request,,Time-Off,
+316,"haven't used it at all, so happy that it didn't cause any issues. yeah, my bar is pretty low ??",,,,,Enhancement Request,,None,
+317,It pulls things together easily.  I did not know this existed and happy I found  this,,,,,Appreciation,,None,
+318,Slow,,,,,Issue,,None,
+319,Still getting used to it,,,,,Enhancement Request,,None,
+320,"I'm sure I'll have another opinion after using for a few weeks, but looks good!",,,,,Enhancement Request,,None,
+321,"Some visual bugs in the shading of UI and illustrations, some spacing and margin misalignment, icons are irregularly weighted and sized, but overall it’s intuitive and I’m excited to use it more especially once shuttles are working. Is there a way I can see all the shuttle stops? Even tho shuttles are not running during Covid I want to plan ahead where I would move so that I’m nearest to shuttle stops.",,,,,Enhancement Request,,Shuttle,
+322,this is amazing i have been hoping for this. I always for get to do the pre-screen when I leave my home. the QR code is no longer on the door and I could never remember the site. so this is perfect,,,,,Appreciation,,None,
+323,Not available in Germany ,,,,,Enhancement Request,,None,
+324,"This is handy! The health check doesn’t work (I get an error - perhaps because I didn’t share my location), but I love the app. Just recommended it to my team. ??",,,,,Issue,,HealthCheck,
+325,"Quick and easy access to information (payroll, time off) that previously needed access via VPN ",,,,,Appreciation,,"Paystub, Time-Off",
+326,Just installed the app. But surprised at the features!,,,,,Appreciation,,None,
+327,"I really like how user centric this approach is vs having a paystub app, vacation app etc",,,,,Appreciation,,"Paystub, Time-Off",
+328,This app is sooooo cool. But it’s having issues syncing with my calendar which tech support is working ok but continues to get escalated. Annoying ,,,,,Issue,,None,
+329,Please continue to build this out.  Much easier to manage than the older internal tools,,,,,Appreciation,,None,
+330,The app is a great snapshot of the items I care about : paycheck and time off.,,,,,Appreciation,,"Paystub, Time-Off",
+331,Took 15 tries to get signed in ,,,,,Issue,,None,
+332,I haven't used it enough yet to form a well rounded opinion but nothing I don't like so far.,,,,,Enhancement Request,,None,
+333,I like the internal tools made available here.,,,,,Appreciation,,None,
+334,I haven't used this app enough yet to have an opinion.,,,,,Enhancement Request,,None,
+335,I’ve only just opened the app. You might want to track usage and ask this only after a few days of user interaction with the app. ,,,,,Enhancement Request,,None,
+336,"Would like my own employment details, anniversary date, etc, not just that of my team. ",,,,,Enhancement Request,,None,
+337,Just started.,,,,,Enhancement Request,,None,
+338,There used to be health check option. I used it on September 2nd. Today (September 4th)I by coincidence I started MyHub and it is not available anymore. Can you please bring it back?,,,,,Enhancement Request,,HealthCheck,

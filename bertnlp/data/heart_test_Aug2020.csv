@@ -1,0 +1,74 @@
+rowid,Text,Category,SubCategory,Sentiment,FeatureMentioned
+175,"struggling to log in , doesn't let me in even after successful phone authentication",Issue,Access,Negative,None
+176,"I had to authenticate several times. Otherwise was smooth and easy.
+",Issue,Access,Negative,None
+177,"It asks for multiple login. Right now i use it primarily for covid healthcheck, but i cant do healthcheck in 1 click. It takes me to the webpage which needs at least 3 more action to login.",Issue,Access,Negative,Health Check
+178,"The messages about making sure my device was enrolled (it was and can see it on the list ) made me click around , trying to select device - only I couldn∆t. The multiple messages make it seem like something is wrong instead of just a helpful message.",Issue,Ease of Use,Negative,None
+179,"Health check is rather just hosting web page in an app.
+would be better if it was integrated natively. for instance don't have to do single sign on for it",Enhancement Request,Access,Negative,Health Check
+180,It keeps freezing for a few seconds. Maybe it's not the app's fault; I can't tell.,Issue,Performance,Negative,
+181,Trying this out. Would be nice to have //tar,Enhancement Request,UI,Negative,TAR
+182,I love all the features and how fluid and smooth the UI is. ,Appreciation,UI,Positive,None
+183,I have used it for health check and it did not work any better than my browser.,Critique,Performance,Negative,Health Check
+184,I only just set up this app 60m ago. Why are you already asking me for feedback??,Enhancement Request,Early Survey Prompt,Negative,
+185,"Very clean and professional UI and fast app. Internal site is great, including roadmap page. Great for now but will be really useful and 5* worthy when more of those new features come online, as some current features aren∆t relevant with campus closed. 
+",Appreciation,"UI, Performance",Positive,
+186,"not intuitive how to log multiple, non contiguous, vacation blocks.",Enhancement Request,UI,Negative,Time-Off
+187,Very helpful way to get quick access to important tools,Appreciation,Ease of Use,Positive,
+188,"it works well, didn't use it too much",Enhancement Request,Early Survey Prompt,Positive,
+189,I haven't used it,Enhancement Request,Early Survey Prompt,Negative,
+190,"There's an expense report tab, that doesn't create expense reports.
+",Enhancement Request,UI,Negative,Expense 
+191,"I saw a colleague use this application to enter vacation time. I am not seeing my opportunity to do the same, but I appreciate the other options in my dashboard.",Enhancement Request,UI,Positive,Time-Off
+192,Would be nice to stay logged in,Issue,Access,Negative,
+193,Too many login prompts. Please streamline the auth experience. ,Issue,Access,Negative,
+194,"Great start. Would love to see more on the dashboard. Remaining PTO, StayFit, etc. I think sl.e of that is even in the app screen shot on the play store but I don't see it. Otherwise this is a nice app.",Enhancement Request,UI,Positive,
+195,Had to login again in Health Check after being logged into MyHub. Prefer a single login.,Issue,Access,Negative,Health Check
+196,Location service is not accurate ,Issue,Trust/Data Quality,Negative,
+197,There are one or two oddities such as not remembering my cafeteria choice that seem like they should be fixed.,Issue,Trust/Data Quality,Negative,Cafe
+198,can't get it to work,Issue,Reliability/Stability,Negative,
+199,"I expected more info. Not even easily locating the health check section 
+",Enhancement Request,UI,Negative,Health Check
+200,Won't let me select my actual location,Issue,Reliability/Stability,Negative,
+201,You can't change your location. There must be a bug. ,Issue,Reliability/Stability,Negative,
+202,"Multiple sign ins
+",Issue,Access,Negative,
+203,"Downloaded easily
+",Appreciation,Ease of Use,Positive,
+204,"Multiple logins required when accessing HealthCheck - why bother even with Intune when SSO doesn∆t work!
+",Issue,Access,Negative,Health Check
+205,Great produc,Appreciation,Other,Positive,
+206,I just opened it so I don't have an opinion yet ??,Enhancement Request,Early Survey Prompt,Negative,
+207,Need more contents,Enhancement Request,UI,Negative,
+208,The app is repeatedly asking for passwords and Authentications. ,Issue,Access,Negative,
+209,Haven∆t tried anything yet. Got this survey when I launched the app.,Enhancement Request,Early Survey Prompt,Negative,
+210,waiting to see what more is to come,Enhancement Request,UI,Negative,
+211,Very cool app!!!,Appreciation,Other,Positive,
+212,App requested to login when I was exploring the Covid related screening for the first time.  It was weird that I had to log in twice.,Issue,Access,Negative,Health Check
+213,Not many options for things to do so it∆s not high value,Critique,UI,Negative,
+214,"Just exploring. None of the functionality is actually useful to me, working exclusively from home.",Critique,UI,Negative,
+215,Some tiles still don∆t work for me for some reason. ,Issue,Reliability/Stability,Negative,
+216,Just downloaded.,Enhancement Request,Early Survey Prompt,Negative,
+217,health check requires login again... no benefit over using browser..,Issue,Access,Negative,Health Check
+218,"I haven't gotten to use it yet, this survey popped up while I was logging in...",Enhancement Request,Early Survey Prompt,Negative,
+219,"Many hoops to jump through to get logged on, but today is first time using it so will likely not have issues in the future. 
+",Issue,Access,Negative,
+220,"Still getting used to it and navigating through the portals. I∆ll have more feedback once I∆m through but so far... Pretty exceptional.
+",Enhancement Request,Early Survey Prompt,Positive,
+221,simple ui,Appreciation,UI,Positive,
+222,yay  .,Appreciation,Other,Positive,
+223,Great app to access relevant info for employees.,Appreciation,Ease of Use,Positive,
+224,"I have not used the app much since campus is closed, but it looks nice.",Appreciation,UI,Positive,
+225,"Need to let me finish the task i.am doing before asking me for feedback, I think it interrupted my stay fit reimbursement",Enhancement Request,Early Survey Prompt,Negative,StayFit
+226,10/10 convenience. Time off buttons are awesome. Seeing when things should be vesting is also neat. ,Appreciation,Ease of Use,Positive,Stock
+227,Great app,Appreciation,Other,Positive,
+228,Because I can submit my reimbursement go MyFit,Appreciation,UI,Positive,StayFit
+229,"Was pleasantly surprised that I could schedule time off in the app as well as see holidays, and then have the ability to block out time in my calendar from the app. ",Appreciation,UI,Positive,Time-Off
+230,I love that I can file reimbursements in the app! ,Appreciation,UI,Positive,StayFit
+231,Was looking into the new update - would be better for mobile platform to have the Health Check go directly to pin or token device for sign in options vs option to use username/password and then require token device or pin.,Issue,Access,Negative,Health Check
+232,Won't let me sign-in. ,Issue,Access,Negative,
+233,"I had to log vacation time. It was unclear if I could log a half day as I needed to until the end of the process. Now I know, but it would have been helpful to have some way to know it was possible from the start, as I very nearly stopped and went to the older TAR system which I knew had that capability.",Enhancement Request,UI,Negative,Time-Off
+234,"upcoming holiday is past.
+expense report is very limited functionality",Issue,Trust/Data Quality,Negative,"Expense, Time-Off"
+235,Back button a little slow. Otherwise GREAT!,Critique,Performance,Positive,
+236,So easy to see everything in one place! Love it! Keep up the great work (although maybe move the cafe menus lower as we∆ll be WFH for a while!),Enhancement Request,UI,Positive,
