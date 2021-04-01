@@ -1,2 +1,2 @@
-# bertnlp
-The repo. maintains BERT based models constructed for NLP tasks
+# BERT NLP Toolkit
+The repo. maintains BERT based NLP tools.
