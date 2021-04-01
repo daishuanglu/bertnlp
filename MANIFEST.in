@@ -1,7 +1,8 @@
 include README.md
-include bert/models/heartCategory.pkl
-include bert/data/heartCategories.csv
-include bert/data/heartFeatures.csv
+include LICENSE
+
+include bertnlp/data/heart_test_Aug2020.csv
+include bertnlp/data/heart_train_SeptNovDec2020.csv
 
 recursive-include bert/data *
 recursive-include bert/models *

@@ -14,6 +14,7 @@ pip install bertnlp-0.0.1-py3-none-any.whl -f https://download.pytorch.org/whl/t
 
 Implemented NLP Solutions
 --------
+* BERT tokenizer
 * BERT word embedding and fuzzy matcher
 * BERT sentence embedding
 * Modified BERT sentiment score
@@ -25,9 +26,9 @@ Usage
 --------
 To use this bert package as a SDK, 
 ```python
-from bert.fuzzy_matcher import semanticMatcher
-from bert.pipeline import sentiment,embeddings,tokenizer
-from bert.text_classifier import knnbert as bert_clf
+from bertnlp.fuzzy_matcher import semanticMatcher
+from bertnlp.pipeline import sentiment,embeddings,tokenizer
+from bertnlp.text_classifier import knnbert as bert_clf
 
 corpus = ['The cat sits outside',
              'A man is playing guitar',
@@ -43,14 +44,12 @@ feature_list=['cat','dog','television','guitar','movie','pizza','pasta']
 
 matcher=semanticMatcher()
 sentimentScorer = sentiment(neu_range=0.2)
-categorizer = bert_clf(pretrained='heartCategory')
-cat_pred,cat_scores = categorizer.predict(corpus)
 senti_pred = sentimentScorer.score(corpus)
 for j, sent in enumerate(corpus):
     features=matcher.match_sent(sent, feature_list, threshold=0.3)
     feature_mentioned= ';'.join(['{:s}, score:{:.4f}'.format(f['label'],f['score'] ) for f in features])
-    print("[Sentence] {:s}; [Sentiment] {:s}, score:{:.4f}; [Category] {:s}, score: {:.4f}, [Feature Mentioned] {:s}".format(
-        sent,senti_pred[j]['label'],senti_pred[j]['score'],cat_pred[j],cat_scores[j],feature_mentioned)
+    print("[Sentence] {:s}; [Sentiment] {:s}, score:{:.4f}; [Feature Mentioned] {:s}".format(
+        sent,senti_pred[j]['label'],senti_pred[j]['score'],feature_mentioned)
     )
 
 print('\n + Extra pipeline features added 12142020:')
@@ -77,10 +76,10 @@ print(emb.cos_sim(sent_emb[:3],sent_emb[-3:]))
 ```
 To train a text classifier
 ```python
-from bert.text_classifier import knnbert,trainer
+from bertnlp.text_classifier import knnbert,trainer
 import numpy as np
-from bert.utils import parse_heart_csv
-from bert.measure import plotConfMat
+from bertnlp.utils import get_example_data
+from bertnlp.measure import plotConfMat
 
 
 def drop_class(X,y,classname):
@@ -88,7 +87,7 @@ def drop_class(X,y,classname):
     return [X[i] for i in sel_id],[y[i] for i in sel_id]
 
 data,senti_cat,subcat,senti_label,featureMent=get_example_data('train','ISO-8859-1')
-test_data,test_senti_cat,test_subcat,test_senti_label,test_featureMent=parse_heart_csv('test','ISO-8859-1')
+test_data,test_senti_cat,test_subcat,test_senti_label,test_featureMent=get_example_data('test','ISO-8859-1')
 sbert_model_name='roberta-base-nli-stsb-mean-tokens'
 
 cat_data_tr,cat_tr=drop_class(data,senti_cat,"Critique")
@@ -98,7 +97,7 @@ cat_model = knnbert(sbert_model_name=sbert_model_name)
 # using evaluation mode to check training-validation performance stats
 trainer(cat_data_tr+cat_data_te,cat_tr+cat_te,cat_model,eval_round=10)
 # enable save_model_path to generate a deployable model on the overall dataset.
-cat_model =trainer(cat_data_tr+cat_data_te,cat_tr+cat_te,cat_model,save_model_path='../ext_models/heartSentiCat.pkl')
+cat_model =trainer(cat_data_tr+cat_data_te,cat_tr+cat_te,cat_model,save_model_path='./model.pkl')
 cat_pred=cat_model.predict(cat_data_te)
 print('senti_cat sbert model test accuracy {}'.format((cat_pred==np.array(cat_te)).mean() ))
 plotConfMat(cat_te,cat_pred,cat_model.classes_,'cat_sbertClf_confmat.png')
@@ -107,35 +106,27 @@ The bert package support multi-labelled text intent detection, which can adapted
 Different from text classification, the multi-labelled text intent detection can (1) check 'None' class and (2) classify a single text into multiple labels as many as it detects. 
 To train a multi-labelled text detection model,
 ```python
-from bert.text_classifier import fasttextClf
+from bertnlp.text_classifier import fasttextClf
 import numpy as np
-from bert.utils import parse_heart_csv
-from bert.measure import plotPrecisionRecall
-
-# we introduce an aspectnlp detector (https://pypi.org/project/aspectnlp/) to detect the key words to improve training
-from aspectnlp.aspect_detector import aspectDetector
-from bert.fuzzy_matcher import feat_predict_func
+from bertnlp.utils import get_example_data
+from bertnlp.measure import plotPrecisionRecall
+from bertnlp.fuzzy_matcher import feat_predict_func
 
 # load the example data for training
 data,senti_cat,subcat,senti_label,featureMent=get_example_data('train','ISO-8859-1')
-test_data,test_senti_cat,test_subcat,test_senti_label,test_featureMent=parse_heart_csv('test','ISO-8859-1')
+test_data,test_senti_cat,test_subcat,test_senti_label,test_featureMent=get_example_data('test','ISO-8859-1')
 # save all the Mentioned features as a list of feature names
 featurelist=list(set(sum(test_featureMent,[])+ sum(featureMent,[])))
 
-# Drop samples with no features
-asp_det=aspectDetector('../ext_models/custom_emb.vec.bin')
-tr_data=[data[i] for i,f in enumerate(featureMent) if 'None' not in ' '.join(f)]
-asp_str=[' '.join(i['aspect']) for i in asp_det.detect(tr_data)]
-test_asp_str=[' '.join(i['aspect']) for i in asp_det.detect(test_data)]
 
-X_tr=asp_str
-X_te=test_asp_str
+X_tr=[data[i] for i,f in enumerate(featureMent) if 'None' not in ' '.join(f)]
+X_te=test_data
 
 # To reduce data imbalance, drop None classes during training.
 featMent_ftmodel=fasttextClf()
 tr_featMent=[''.join(f) for f in featureMent if 'None' not in ' '.join(f)]
 featMent_ftmodel.fit(X_tr,tr_featMent,lr=1.0,epoch=100,wordNgrams=2,loss='ova')
-featMent_ftmodel.model.save_model('../ext_models/featMent_ftClf.bin')
+featMent_ftmodel.model.save_model('./featMent_ftClf.bin')
 
 # mixing a edit-distance based text fuzzy matcher with the multi-intent detector to improve simple cases.
 combinedModel={'ftmodel':featMent_ftmodel,'featlist':featurelist}
