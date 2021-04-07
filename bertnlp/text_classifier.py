@@ -148,7 +148,8 @@ class knnbert():
 
 class fasttextClf():
 
-    def __init__(self,pretrained=''):
+    def __init__(self,pretrained='',code='utf-8'):
+        self.encoding = code
         self.model=None
         if pretrained:
             self.model=load_model(pretrained)
@@ -156,7 +157,7 @@ class fasttextClf():
         self.valid_file='fasttext.valid'
 
     def _prep_data(self,data,filePath):
-        f=open(filePath,'w')
+        f=open(filePath,'w',encoding=self.encoding)
         for X,y in data:
             if isinstance(y,list):
                 labelstr=' '.join(['__label__'+l for l in y])
