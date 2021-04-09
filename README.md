@@ -12,6 +12,8 @@ To Install this package using pip:
 pip install bertnlp-0.0.x-py3-none-any.whl -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
+To fetch the nightly version that is in-development, visit this project homepage (https://github.com/daishuanglu/bertnlp).
+
 Implemented NLP Solutions
 --------
 * BERT tokenizer
