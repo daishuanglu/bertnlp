@@ -12,7 +12,7 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='bertnlp',
-    version='0.0.2',
+    version='0.0.3',
     description="BERT toolkit is a Python package that performs various NLP tasks using Bidirectional Encoder Representations from Transformers (BERT) related models.",
     long_description=long_description,
     long_description_content_type="text/markdown",
