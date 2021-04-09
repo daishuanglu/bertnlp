@@ -173,15 +173,8 @@ class fasttextClf():
         return [p.replace('__label__','') for p in pred]
 
 
-    def predict(self,corpus,k=-1,conf_thresh=0.3):
-        ftpred = []
-        for sent in corpus:
-            pred = self.predict_sent(sent, k=k,conf_thresh=conf_thresh)
-            if pred:
-                ftpred.append(pred[0])
-            else:
-                ftpred.append('Other')
-        return np.array(ftpred)
+    def predict(self, corpus, k=-1, conf_thresh=0.3):
+        return [self.predict_sent(sent, k=k, conf_thresh=conf_thresh) for sent in corpus]
 
 
     def predict_proba(self,text,k=-1):
