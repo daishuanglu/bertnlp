@@ -9,7 +9,7 @@ Installation
 To Install this package using pip:
 
 ```Shell
-pip install bertnlp-0.0.1-py3-none-any.whl -f https://download.pytorch.org/whl/torch_stable.html
+pip install bertnlp-0.0.x-py3-none-any.whl -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
 Implemented NLP Solutions
