@@ -88,13 +88,13 @@ valLoader=dataloader(os.path.join(datadir,'val.csv'),code=encoding)
 train_data,train_label= trainLoader.full()
 val_data,val_label=valLoader.full()
 train_data+=val_data
-train_label +=val_label
+train_label+=val_label
 
 train_data=[clean_str(s) for s in train_data]
 val_data=[clean_str(s) for s in val_data]
 
 ftmodel=fasttextClf()
-ftmodel.fit(train_data,train_label,lr=1.0,epoch=100,wordNgrams=2,loss='ova')
+ftmodel.fit(train_data,train_label,lr=1.0,epoch=120,wordNgrams=2,loss='ova')
 #ftmodel.model.save_model('./featMent_ftClf.bin')
 
 

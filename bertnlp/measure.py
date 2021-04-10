@@ -46,20 +46,22 @@ def avg_prec_rec(pred,truth,ordered=False):
     num_fn=0
     hamming_loss=0.0
     for i,p in enumerate(pred):
-        tp_cls =set(p).intersection(set(truth[i]))
+        sp=set(p)
+        st=set(truth[i])
+        tp_cls =sp.intersection(st)
         if ordered:
             hamming_loss +=seq_hamming_loss(list(p),truth[i])
         else:
-            l = len(set(truth[i]))
+            l = len(st)
             hamming_loss += max(0, (1 - len(p) / l))
         tp=len(tp_cls)
         num_tp+=tp
-        fp = len(p) - tp
+        fp = len(sp) - tp
         num_fp+=fp
-        fn=len(set(truth[i])-set(p))
+        fn=len(st-sp)
         num_fn+=fn
-        num_pred+=len(p)
-        num_truth+=len(truth[i])
+        num_pred+=len(sp)
+        num_truth+=len(st)
         for c,n in Counter(tp_cls).items():
             cls_tp[c]+=n
         for c in truth[i]:
