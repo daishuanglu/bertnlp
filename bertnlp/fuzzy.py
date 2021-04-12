@@ -34,16 +34,20 @@ def extract_unique_ngrams(s,n):
 
 class buckets():
     def __init__(self,custom_bucket={}):
-        self.wlens = set([len(kw.split()) for category in custom_bucket for kw in custom_bucket[category]])
+        self.wlens = set([len(kw.split()) for category in custom_bucket.keys() for kw in custom_bucket[category]])
         self.words_bucket=custom_bucket
+        self.num_buckets=len(custom_bucket)
 
     def custom_buckets(self,sentence ):
         wlist =sentence.lower().split()
-        wlist_ngrams={l:list(ngrams(wlist,l)) for l in self.wlens}
+        kwlens = [min(l,len(wlist)) for l in self.wlens]
+        if len(wlist) == 0:
+            return [0 for _ in range(self.num_buckets)]
+        wlist_ngrams = {l: list(ngrams(wlist, l)) for l in set(kwlens)}
 
         similarity=[]
         for category in self.words_bucket.keys():
-            sim=max([damerauLevenshtein(' '.join(w), kw.lower(), similarity=True) for kw in self.words_bucket[category] for w in wlist_ngrams[len(kw.split())]])
+            sim=max([damerauLevenshtein(''.join(w).lower(), kw.replace(' ','').lower(), similarity=True) for kw in self.words_bucket[category] for w in wlist_ngrams[len(kw.split())]])
             similarity.append(sim)
 
         return similarity
