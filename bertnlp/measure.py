@@ -52,8 +52,7 @@ def avg_prec_rec(pred,truth,ordered=False):
         if ordered:
             hamming_loss +=seq_hamming_loss(list(p),truth[i])
         else:
-            l = len(st)
-            hamming_loss += max(0, (1 - len(p) / l))
+            hamming_loss += len(sp.union(st) -tp_cls)/len(classes)
         tp=len(tp_cls)
         num_tp+=tp
         fp = len(sp) - tp
